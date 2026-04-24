@@ -150,7 +150,7 @@ GEM
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
-    erb (6.0.1)
+    erb (6.0.1.1)
     erubi (1.13.1)
     eventmachine (1.2.7)
     ffi (1.17.3)
@@ -578,7 +578,7 @@ CHECKSUMS
   docile (1.4.1) sha256=96159be799bfa73cdb721b840e9802126e4e03dfc26863db73647204c727f21e
   drb (2.2.3) sha256=0b00d6fdb50995fe4a45dea13663493c841112e4068656854646f418fda13373
   em-websocket (0.5.3) sha256=f56a92bde4e6cb879256d58ee31f124181f68f8887bd14d53d5d9a292758c6a8
-  erb (6.0.1) sha256=28ecdd99c5472aebd5674d6061e3c6b0a45c049578b071e5a52c2a7f13c197e5
+  erb (6.0.1.1) sha256=ce5357460652a9a94667c5769eaffc551eea2b14a8531ac7c7b1d77b860758b9
   erubi (1.13.1) sha256=a082103b0885dbc5ecf1172fede897f9ebdb745a4b97a5e8dc63953db1ee4ad9
   eventmachine (1.2.7) sha256=994016e42aa041477ba9cff45cbe50de2047f25dd418eba003e84f0d16560972
   ffi (1.17.3) sha256=0e9f39f7bb3934f77ad6feab49662be77e87eedcdeb2a3f5c0234c2938563d4c
