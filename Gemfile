@@ -12,7 +12,7 @@ gem "jquery-fileupload-rails"
 gem "jquery-rails"
 gem "minitest"
 gem "pry-rails" # not in dev group in case running via prod/staging @ a training
-gem "puma", "~> 6.0"
+gem "puma", "~> 7.2"
 gem "rake"
 gem "responders"
 gem "ruby-prof"
